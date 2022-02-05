@@ -6,7 +6,7 @@
 
 ## Architecture
 
-![Scrape Architecture](scrape-architecture.svg)
+![Scrape Architecture](./scrape-architecture.svg)
 
 ## Dashboard
 
